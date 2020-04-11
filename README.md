@@ -17,7 +17,7 @@
 
 - mix-Stripes: Synthetic composite texture dataset combining lines with different orientations 
 
-![image](./Figures/ctd_brodatz.png)
+![image](./Figures/ctd_stripes.png)
 
 
 ### Details
