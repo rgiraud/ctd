@@ -1,4 +1,8 @@
-## CTD: Composite texture dataset used in the paper: [PDF](https://hal.archives-ouvertes.fr/hal-01510063/document)
+## CTD: Composite texture dataset 
+
+### Overview
+
+Datasets used in the paper: [PDF](https://hal.archives-ouvertes.fr/hal-01510063/document)
 ```
 @inproceedings{giraud2019texture,
   title={Texture-aware superpixel segmentation},
@@ -8,8 +12,6 @@
   year={2019}
 }
 ```
-
-### Overview
 
 - mix-Brodatz: Natural composite texture dataset using images from the [Brodatz dataset](http://sipi.usc.edu/database/database.php?volume=textures) 
 
