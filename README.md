@@ -11,7 +11,7 @@
 
 ### Overview
 
-- mix-Brodatz: Natural composite texture dataset using images from the [Brodatz dataset]() 
+- mix-Brodatz: Natural composite texture dataset using images from the [Brodatz dataset](http://sipi.usc.edu/database/database.php?volume=textures) 
 
 ![image](./Figures/ctd_brodatz.png)
 
