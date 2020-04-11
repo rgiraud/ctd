@@ -31,7 +31,7 @@
 
 (C) Rémi Giraud, 2020  
 remi.giraud@u-bordeaux.fr  
-[rgiraud.vvv.enseirb-matmeca.fr](https://rgiraud.vvv.enseirb-matmeca.fr)  
+[https://rgiraud.vvv.enseirb-matmeca.fr](https://rgiraud.vvv.enseirb-matmeca.fr)  
 ENSEIRB-MATMECA (Bordeaux INP), Laboratory IMS
 
 
