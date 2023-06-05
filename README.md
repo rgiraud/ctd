@@ -33,7 +33,7 @@ Datasets used in the paper: [PDF](https://hal.archives-ouvertes.fr/hal-01510063/
 
 (C) Rémi Giraud, 2020  
 remi.giraud@u-bordeaux.fr  
-[https://rgiraud.vvv.enseirb-matmeca.fr](https://rgiraud.vvv.enseirb-matmeca.fr)  
+[https://remi-giraud.enseirb-matmeca.fr](https://remi-giraud.enseirb-matmeca.fr)  
 ENSEIRB-MATMECA (Bordeaux INP), Laboratory IMS
 
 
